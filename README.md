@@ -2,11 +2,11 @@
 
 ##### _Object-Oriented Code Review for week 1 at Epicodus, August 2015_
 
-#### By _**{Jenna Maloney}**_
+#### By _**Jenna Maloney**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+_This is an address book that will store and display information for a Contact, as entered by the user. There are options to add individual entries to the list of previously added Contact entries, as well as to clear the entire list of Contacts._
 
 ## Setup
 
