@@ -1,6 +1,6 @@
-# _{AddressBook}_
+# _AddressBook_
 
-##### _{AddressBook, using Silex, Twig}, {August 2015}_
+##### _Object-Oriented Code Review for week 1 at Epicodus, August 2015_
 
 #### By _**{Jenna Maloney}**_
 
@@ -10,21 +10,20 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup
 
-* _clone repository_
-* _run $ composer install_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone this repository_
+* _In your command line, change current directory to top level of project folder_
+* _Run composer install_
+* _Start server in the web level of the cloned directory (For a Mac, run the following command in Terminal: php -S localhost:8000)_
+* _Open web browser of choice to localhost:8000_
 
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
 
 ## Technologies Used
 
-_{HTML, Twig, Silex, PHP}_
+_composer, PHP, HTML, Twig, Bootstrap, Silex_
 
 ### Legal
 
-Copyright (c) 2015 **_{Jenna Maloney}_**
+Copyright (c) 2015 **_Jenna Maloney_**
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
